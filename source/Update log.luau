@@ -1,8 +1,8 @@
-Update 1.2.3 - 2026-01-28
+Update 0.0.1 - 2026-02-2026
+- Bypassed AntiCheat
+- Added More Player Settings/Options
+- Added Bug Reports
 - Added dynamic update logs
-- Fixed invisibility toggle bug
-- Improved HTTP request logging
+- Fixed "Delete Barrier" bug
 
-Update 1.2.2 - 2026-01-15
-- Improved UI responsiveness
-- Fixed crash when paragraph is empty
+**Join our Discord for more scripts! and to get notifactions on future updates!
